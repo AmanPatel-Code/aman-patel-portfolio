@@ -1,0 +1,22 @@
+{
+  "overview": "Professional portfolio website for Aman Patel — an IT Support and Software Engineer with experience at Tech Mahindra, Cogent E-Services, DigiTech, and as a React/React Native developer with live deployed projects.",
+  "features": [
+    "Hero section with name, title, and career summary",
+    "Experience timeline with 4 professional roles",
+    "Categorized technical skills (IT Support & Development)",
+    "Live project showcase with external links",
+    "Education and certifications section",
+    "Contact links — email, phone, LinkedIn, GitHub",
+    "Fully responsive layout for mobile and desktop",
+    "Smooth scroll navigation"
+  ],
+  "category": "portfolio",
+  "tags": [
+    "portfolio",
+    "resume",
+    "react",
+    "it-support",
+    "software-engineer"
+  ],
+  "last_updated": "2026-04-17T19:52:08.839Z"
+}
